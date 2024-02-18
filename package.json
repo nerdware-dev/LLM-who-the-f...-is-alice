@@ -1,0 +1,19 @@
+{
+  "name": "who-the-fuck-is-alice",
+  "version": "1.0.0",
+  "description": "## Einführung",
+  "main": "index.js",
+  "scripts": {
+    "question": "node src/chatbot.js",
+    "seed-db": "node src/generate-data.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@langchain/openai": "^0.0.14",
+    "dotenv": "^16.4.4",
+    "hnswlib-node": "^1.4.2",
+    "langchain": "^0.1.20"
+  }
+}
