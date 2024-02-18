@@ -1,6 +1,6 @@
 # Who the F... is Alice? 🐇🎩🍄
 
-Welcome to "Who the F... is Alice?", a repository dedicated to getting your first touch with Langchain. This project consists of two main parts:
+Welcome to "Who the F... is Alice?", a repository dedicated to getting your first touch with [Langchain](https://www.langchain.com/). This project consists of two main parts:
 
 1. **Data Seed**: This part involves loading a text file. In this example, we're using the book "Alice in Wonderland". 📖
 2. **Chat.js**: This is where you can ask your model questions about the ingested data. 🗣️
@@ -47,6 +47,6 @@ Here's how you can do it:
 Remember, the sky's the limit with what you can do. Be creative and explore different possibilities! 🚀
 
 ## Further links 🖇️
-- Notion API (https://js.langchain.com/docs/integrations/document_loaders/web_loaders/notionapi)
-- Create ChatBot for your Notion Documents with LangChain and Streamlit (https://betterprogramming.pub/build-a-chatbot-for-your-notion-documents-using-langchain-and-openai-e0ad7b903b84) 
-- Prompt Engineering Guide (https://www.promptingguide.ai/de)
+- [Prompt Engineering Guide](https://www.promptingguide.ai/de)
+- [LangChain Notion API](https://js.langchain.com/docs/integrations/document_loaders/web_loaders/notionapi)
+- [Create ChatBot for your Notion Documents with LangChain and Streamlit](https://betterprogramming.pub/build-a-chatbot-for-your-notion-documents-using-langchain-and-openai-e0ad7b903b84) 
