@@ -24,7 +24,7 @@ npm install
 
 To seed the data, run the following command:
 ```bash
-node dataSeed.js
+node seed-db.js
 ```
 To start the chat, run:
 ```bash
