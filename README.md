@@ -7,7 +7,7 @@ Welcome to "Who the F... is Alice?", a repository dedicated to getting your firs
 
 ## Getting Started 🚀
 
-To run this application, you'll need to have an OpenAI API key. If you don't have one, you can get it from the [OpenAI website](https://www.openai.com/).
+To run this application, you'll need to have an OpenAI API key. If you don't have one, you can get it from the [OpenAI website](https://platform.openai.com/api-keys).
 
 ### Installation 📦
 
@@ -45,3 +45,8 @@ Here's how you can do it:
 5. Start the chat and ask your model questions about your Notion pages!
 
 Remember, the sky's the limit with what you can do. Be creative and explore different possibilities! 🚀
+
+## Further links 🖇️
+- Notion API (https://js.langchain.com/docs/integrations/document_loaders/web_loaders/notionapi)
+- Create ChatBot for your Notion Documents with LangChain and Streamlit (https://betterprogramming.pub/build-a-chatbot-for-your-notion-documents-using-langchain-and-openai-e0ad7b903b84) 
+- Prompt Engineering Guide (https://www.promptingguide.ai/de)
