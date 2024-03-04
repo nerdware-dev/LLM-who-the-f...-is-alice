@@ -33,4 +33,7 @@ async function getAnswer(question) {
   return result.output_text;
 }
 
-getAnswer(question).then(answer => console.log(answer));
+getAnswer(question).then(answer => {
+  console.log(`Question: "${question}"`)
+  console.log(`Answer: ${answer}`)
+});

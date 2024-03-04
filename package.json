@@ -11,9 +11,12 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@langchain/community": "^0.0.30",
     "@langchain/openai": "^0.0.14",
+    "@notionhq/client": "^2.2.14",
     "dotenv": "^16.4.4",
     "hnswlib-node": "^1.4.2",
-    "langchain": "^0.1.20"
+    "langchain": "^0.1.20",
+    "notion-to-md": "^3.1.1"
   }
 }
